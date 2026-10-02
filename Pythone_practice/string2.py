@@ -1,0 +1,6 @@
+s ="""MY NAME IS SOUVIK.
+MY WIFE IS ANGRY WITH ME.
+I AM SORRY
+BABY"""
+
+print(s)
