@@ -16,3 +16,11 @@ print(data)
 
 data.popitem()
 print(data)
+
+for x in data :
+    print(x)
+    print(data[x])
+for y in data.keys():
+    print(y)
+for o , p in data.items():
+    print( o ,p)
